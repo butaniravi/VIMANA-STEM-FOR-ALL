@@ -19,6 +19,7 @@ Happy Making, Happy Flying, Happy Breaking <br>
 Cheers....<br>
 
 Ravi
+
 <p><strong>VIMANA BOARD BOTTOM SIDE :</strong></p>
 <figure><img class="lazy" src="https://cdn.hackaday.io/images/1340081682333225660.png"></figure>
 <p><strong><br></strong></p>
@@ -37,4 +38,8 @@ Ravi
 <figure><img class="lazy" src="https://cdn.hackaday.io/images/1528601682334216017.jpg"></figure>
 <p><strong>Fully Assembled Basic Version of&nbsp;</strong>Pusher (canard) Airplane Configuration with Differential Thrust<strong>:</strong></p>
 <figure><img class="lazy" src="https://cdn.hackaday.io/images/2927001682403819020.jfif"></figure>
+<p><strong><br></strong></p>
+<p><strong>VIMANA Board With and Without IMU LSM6DS3 :&nbsp;</strong><br></p>
+<figure><img class="lazy" src="https://cdn.hackaday.io/images/8062281682418962163.jpeg"></figure>
+<figure><img class="lazy" src="https://cdn.hackaday.io/images/6111121682418971553.jpeg"></figure>
 <p>More Airplane configurations, its build instruction and Maiden Flight videos will be posted soon as its done..</p>
