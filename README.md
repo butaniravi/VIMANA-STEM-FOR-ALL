@@ -19,3 +19,22 @@ Happy Making, Happy Flying, Happy Breaking <br>
 Cheers....<br>
 
 Ravi
+<p><strong>VIMANA BOARD BOTTOM SIDE :</strong></p>
+<figure><img class="lazy" src="https://cdn.hackaday.io/images/1340081682333225660.png"></figure>
+<p><strong><br></strong></p>
+<p><strong>VIMANA BOARD TOP SIDE :</strong></p>
+<figure><img class="lazy" src="https://cdn.hackaday.io/images/1068671682325831245.png"></figure>
+<p><strong><br></strong></p>
+<p><strong>VIMANA </strong><strong>Assembled</strong><strong>&nbsp;Board :&nbsp;</strong></p>
+<figure><img class="lazy" src="https://cdn.hackaday.io/images/7654741682333772588.jpg"></figure>
+<figure><img class="lazy" src="https://cdn.hackaday.io/images/7213191682333798081.jpg"></figure>
+<p><strong><br></strong></p>
+<p><strong>VIMANA POWER TRAIN :&nbsp;</strong><br></p>
+<figure><img class="lazy" src="https://cdn.hackaday.io/images/9539521682333651594.jpg"></figure>
+<p><strong>VIMANA Most Basic differential Thrust Micro Airplane Configuration:</strong></p>
+<figure><img class="lazy" src="https://cdn.hackaday.io/images/6345411682333908649.jpg"></figure>
+<p><strong>Fully Assembled Basic Version of&nbsp;</strong>Tractor Airplane Configuration with Differential Thrust<strong>:</strong></p>
+<figure><img class="lazy" src="https://cdn.hackaday.io/images/1528601682334216017.jpg"></figure>
+<p><strong>Fully Assembled Basic Version of&nbsp;</strong>Pusher (canard) Airplane Configuration with Differential Thrust<strong>:</strong></p>
+<figure><img class="lazy" src="https://cdn.hackaday.io/images/2927001682403819020.jfif"></figure>
+<p>More Airplane configurations, its build instruction and Maiden Flight videos will be posted soon as its done..</p>
